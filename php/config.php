@@ -1,4 +1,4 @@
-<?
+<?php
 	//define the receiver of the email
 	
 	define('TO_NAME','Sarah Santos');
