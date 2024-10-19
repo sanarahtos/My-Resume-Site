@@ -1,8 +1,8 @@
 <?
 	//define the receiver of the email
 	
-	define('TO_NAME','Anthony Giacalone');
-	define('TO_EMAIL','anthony.giacalone@csulb.edu');
+	define('TO_NAME','Sarah Santos');
+	define('TO_EMAIL','4sarahsantos@gmail.com');
 	define('SUBJECT','message from your resume website');	
 	
 	define('TEMPLATE_PATH','template/default.php');
