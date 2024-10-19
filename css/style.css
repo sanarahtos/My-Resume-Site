@@ -847,10 +847,11 @@
 		padding:0 20px;
 	}
 	.contact-info {
-		width:250px;
+		/* width: 250px; */
+		width:300px;
 	}
 	.contact-form {
-		width:530px;
+		width:150px;
 	}
 	/* Contact info */
 	.contact-info ul {
@@ -859,9 +860,9 @@
 		padding-left:18px;
 	}
 	.contact-info ul li {
-		font-size:13px;
+		font-size:15px;
 		line-height:20px;
-		color: #666;
+		color: #324b3e;
 		overflow: hidden;
 	}
 
